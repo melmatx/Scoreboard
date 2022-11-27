@@ -1,0 +1,8 @@
+com/example/scoreboard/MainActivity.java
+ com.example.scoreboard.MainActivity
+com/example/scoreboard/SharedPrefsClass.java
+ com.example.scoreboard.SharedPrefsClass
+com/example/scoreboard/EnterTeamNameActivity.java
+ com.example.scoreboard.EnterTeamNameActivity
+com/example/scoreboard/BuildConfig.java
+ com.example.scoreboard.BuildConfig
